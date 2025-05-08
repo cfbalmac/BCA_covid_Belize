@@ -1,0 +1,16 @@
+param,value
+betavol,0.578
+r0,1.42
+gentime,7
+init_cases,2
+recover,2.9
+incubation,5.2
+population,394921
+vacc_frac,NA
+local_rep_prop,0.0066
+onset_prop,0.16
+confirmed_prop,1
+report_local,6.1
+r0_decline,1
+rep_local_var,1
+beta,NA
